@@ -179,7 +179,7 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 ## 📈 GitHub Statisztikáim
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statisztik%C3%A1im" />
+  <img width="80%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statisztik%C3%A1im" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=futozs&theme=dark&hide_border=true" />
 </div>
 <div align="center">
