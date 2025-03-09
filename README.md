@@ -189,7 +189,7 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 
 ---
 
-## 🎵 Mit Hallgatok?
+## 🎵 Mit Hallgatok/Milyen a hallgatási szokásaim?
 
 <div align="center">
   <a href="https://open.spotify.com/user/31hxs5xre4lx6a3axjbejdoo3v3m">
@@ -202,7 +202,7 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 ## 📌 Kiemelt Projektek
 
 <div align="center">
-  <a href="https://github.com/futozs/project1">
+  <a href="https://github.com/futozs/">
     <img align="center" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/pin/?username=futozs&repo=project1&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/futozs/project2">
@@ -227,10 +227,10 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 <p align="left">
   Néhány egyszerű projekttel kezdtem, főleg:
 
-🌐 Iskolai weboldal feladatok
-🧮 Egyszerű számológép JavaScript-ben
-📝 Todo alkalmazás kezdetek
-🎮 Egyszerű játékok (pl. kő-papír-olló)
+-  🌐 Iskolai weboldal feladatok <br>
+-  🧮 Egyszerű számológép JavaScript-ben <br>
+-  📝 Todo alkalmazás kezdetek <br>
+-  🎮 Egyszerű játékok (pl. kő-papír-olló) <br>
 
 </p>
 
