@@ -201,14 +201,34 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 
 ## 📌 Kiemelt Projektek
 
+
 <div align="center">
-  <a href="https://github.com/futozs/">
+  <a href="https://github.com/futozs/project1">
     <img align="center" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/pin/?username=futozs&repo=project1&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/futozs/project2">
     <img align="center" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/pin/?username=futozs&repo=project2&theme=radical&hide_border=true" />
   </a>
+  <p align="center">
+    <a href="https://github.com/futozs?tab=repositories">
+      <img alt="Összes Projektem" src="https://img.shields.io/badge/Összes%20Projektem-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </div>
+
+<!-- További projektek -->
+<details>
+  <summary>🔍 További Érdekes Projektek</summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/futozs/project3">
+      <img align="center" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/pin/?username=futozs&repo=project3&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="https://github.com/futozs/project4">
+      <img align="center" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/pin/?username=futozs&repo=project4&theme=tokyonight&hide_border=true" />
+    </a>
+  </div>
+</details>
 
 ---
 
