@@ -234,26 +234,30 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 
 </p>
 
+---
+
 <h2 align="left">👨‍🎓 Tanulási Útvonalaim</h2>
 <p align="left">
   Így tanulok programozni:
 
-📚 Iskolai tananyagok <br>
-🎬 YouTube tutorialok <br>
-📱 FreeCodeCamp mobilos kurzusai <br>
-💻 Codecademy és hasonló oldalak <br>
-👥 Discord programozó közösségek segítségével <br>
+- 📚 Iskolai tananyagok <br>
+- 🎬 YouTube tutorialok <br>
+- 📱 FreeCodeCamp mobilos kurzusai <br>
+- 💻 Codecademy és hasonló oldalak <br>
+- 👥 Discord programozó közösségek segítségével <br>
 
 </p>
+
+---
 
 <h2 align="left">🤝 Segíts a fejlődésben!</h2>
 <p align="left">
   15 évesen még sokat kell tanulnom, ezért szívesen fogadok:
 
-💡 Tippeket és tanácsokat
-🔗 Hasznos tanulási forrásokat
-🧩 Egyszerű kihívásokat, amiket megoldhatok
-👨‍👦‍👦 Csatlakozási lehetőséget kezdő barátságos projektekhez
+- 💡 Tippeket és tanácsokat <br>
+- 🔗 Hasznos tanulási forrásokat <br>
+- 🧩 Egyszerű kihívásokat, amiket megoldhatok <br>
+- 👨‍👦‍👦 Csatlakozási lehetőséget kezdő barátságos projektekhez <br>
 
 </p>
 
