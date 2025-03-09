@@ -122,8 +122,9 @@
 <h2 align="left">📊 GitHub Statisztikáim (Összes Projektemmel Együtt)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=GitHub Statisztikáim" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats-seven-lemon-62.vercel.app/api/top-langs?username=futozs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2&custom_title=Leggyakrabban Használt Nyelvek&count_private=true" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=GitHub Statisztikáim" height="170" alt="stats graph"/>
+
+  <img src="[https://github-readme-stats-seven-lemon-62.vercel.app/api/top-langs?username=futozs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2&custom_title=Leggyakrabban Használt Nyelvek&count_private=true](https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&count_private=true&theme=radical&v=123)" height="170" alt="languages graph"/>
 </div>
 
 <div align="center">
