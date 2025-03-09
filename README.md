@@ -1,9 +1,13 @@
 <h1 align="center">👨‍💻 Futó Zsombor</h1>
-<h3 align="center">Full-Stack & Mobile Fejlesztő | Innovatív Technológiai Megoldások</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+%26+Mobile+Fejleszt%C5%91;Innovat%C3%ADv+Technol%C3%B3giai+Megold%C3%A1sok" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <div align="center">
-  <h3><a href="https://futozsombor.hu" target="_blank">futozsombor.hu</a></h3>
+  <h3><a href="https://futozsombor.hu" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-futozsombor.hu-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Weboldal"/>
+  </a></h3>
      <br>
 </div>
   <a href="https://discord.com/users/945005059912118332" target="_blank">
@@ -43,6 +47,10 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 - 👯 Nyitott vagyok az együttműködésre open-source projektekben
 - 💬 Kérdezz bátran a **React**, **NextJS**, **Flutter** vagy **DevOps** témákban
 - ⚡ Fun fact: A programozás mellett érdekel a **3D modellezés** és a **digitális design** is
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</p>
 
 > "A kód nem hazudik, a megjegyzések néha igen." — Ron Jeffries
 
@@ -176,6 +184,12 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 
 ---
 
+## 📊 Fejlesztési Aktivitásom
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=futozs&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
 ## 📈 GitHub Statisztikáim
 
 <div align="center">
@@ -198,6 +212,12 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 </div>
 
 ---
+
+## 🚧 Fejlesztési Útvonalaim
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,flutter,git,docker" />
+</p>
 
 ## 🔒 Privát Projektjeim
 
@@ -224,6 +244,11 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 ---
 
 <h2 align="left">👨‍🎓 Tanulási Útvonalaim</h2>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding GIF" width="500" />
+</p>
+
 <p align="left">
   Így tanulok programozni:
 
@@ -254,7 +279,11 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 
 ---
 
-### 🤝 Kapcsolat
+### 📫 Kapcsolat
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DanielAdeyemi/DanielAdeyemi/main/contact-me.gif" alt="Contact GIF" width="400" />
+</p>
 
 Nyitott vagyok az együttműködésre, új projektekre és szakmai beszélgetésekre. Ha kapcsolatba szeretnél lépni velem, keress bátran az alábbi platformokon:
 
@@ -265,5 +294,7 @@ Nyitott vagyok az együttműködésre, új projektekre és szakmai beszélgetés
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  <br/>
   <b>Köszönöm, hogy meglátogattad a profilomat! 👨‍💻</b>
 </div>
