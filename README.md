@@ -238,11 +238,11 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 <p align="left">
   Így tanulok programozni:
 
-📚 Iskolai tananyagok
-🎬 YouTube tutorialok
-📱 FreeCodeCamp mobilos kurzusai
-💻 Codecademy és hasonló oldalak
-👥 Discord programozó közösségek segítségével
+📚 Iskolai tananyagok <br>
+🎬 YouTube tutorialok <br>
+📱 FreeCodeCamp mobilos kurzusai <br>
+💻 Codecademy és hasonló oldalak <br>
+👥 Discord programozó közösségek segítségével <br>
 
 </p>
 
