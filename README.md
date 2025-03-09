@@ -223,21 +223,39 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 
 ---
 
-## 💼 Szakmai Tapasztalat
+<h2 align="left">💻 Első Projektjeim</h2>
+<p align="left">
+  Néhány egyszerű projekttel kezdtem, főleg:
 
-- 🎓 **Kandó Kálmán Informatikai Technikum** - Informatikai tanulmányok
-- 💻 **Szabadúszó Fejlesztő** - Front-end és back-end fejlesztés
-- 🤝 **Open-Source Hozzájárulások** - Aktív közreműködő különböző projektekben
+🌐 Iskolai weboldal feladatok
+🧮 Egyszerű számológép JavaScript-ben
+📝 Todo alkalmazás kezdetek
+🎮 Egyszerű játékok (pl. kő-papír-olló)
 
----
+</p>
 
-## 🌱 Jelenlegi Tanulási Fókuszok
+<h2 align="left">👨‍🎓 Tanulási Útvonalaim</h2>
+<p align="left">
+  Így tanulok programozni:
 
-- 🧠 Mesterséges intelligencia alapú megoldások
-- ☁️ Felhő alapú infrastruktúra és mikroszolgáltatások
-- 🔐 Kiberbiztonság és biztonsági rendszerek fejlesztése
+📚 Iskolai tananyagok
+🎬 YouTube tutorialok
+📱 FreeCodeCamp mobilos kurzusai
+💻 Codecademy és hasonló oldalak
+👥 Discord programozó közösségek segítségével
 
----
+</p>
+
+<h2 align="left">🤝 Segíts a fejlődésben!</h2>
+<p align="left">
+  15 évesen még sokat kell tanulnom, ezért szívesen fogadok:
+
+💡 Tippeket és tanácsokat
+🔗 Hasznos tanulási forrásokat
+🧩 Egyszerű kihívásokat, amiket megoldhatok
+👨‍👦‍👦 Csatlakozási lehetőséget kezdő barátságos projektekhez
+
+</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
