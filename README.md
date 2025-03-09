@@ -2,9 +2,12 @@
 <h3 align="center">Full-Stack & Mobile Fejlesztő | Innovatív Technológiai Megoldások</h3>
 
 <div align="center">
-  <a href="https://futozsombor.hu" target="_blank">
-    <img src="https://img.shields.io/badge/Weboldalam-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
+  <br>
+  <div align="center">
+  <h2>Futó Zsombor</h2>
+  <h3><a href="https://futozsombor.hu" target="_blank">futozsombor.hu</a></h3>
+     <br>
+</div>
   <a href="https://discord.com/users/945005059912118332" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
