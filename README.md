@@ -4,7 +4,6 @@
 <div align="center">
   <br>
   <div align="center">
-  <h2>Futó Zsombor</h2>
   <h3><a href="https://futozsombor.hu" target="_blank">futozsombor.hu</a></h3>
      <br>
 </div>
