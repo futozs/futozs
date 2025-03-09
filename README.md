@@ -119,12 +119,11 @@
 
 ###
 
-<h2 align="left">📊 GitHub Statisztikáim</h2>
-
+<h2 align="left">📊 GitHub Statisztikáim (Privát Projektekkel Együtt)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=futozs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Github%20statisztik%C3%A1im" height="188" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=futozs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2&custom_title=leggyakrabban%20haszn%C3%A1lt%20nyelvek" height="188" alt="languages graph"  />
+  <img src="https://github-readme-stats-yourusername.vercel.app/api?username=futozs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=GitHub Statisztikáim" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-yourusername.vercel.app/api/top-langs?username=futozs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2&custom_title=Leggyakrabban Használt Nyelvek&count_private=true" height="170" alt="languages graph" />
 </div>
 
 ###
