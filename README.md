@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack & Mobile Fejlesztő | Innovatív Technológiai Megoldások</h3>
 
 <div align="center">
-  <br>
   <div align="center">
   <h3><a href="https://futozsombor.hu" target="_blank">futozsombor.hu</a></h3>
      <br>
