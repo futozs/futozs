@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Futó Zsombor</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+%26+Mobile+Fejleszt%C5%91;Innovat%C3%ADv+Technol%C3%B3giai+Megold%C3%A1sok" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Webfejleszt%C3%A9st+tanul%C3%B3+di%C3%A1k;K%C3%B3dol%C3%B3+tehetség;J%C3%B6v%C5%91+technol%C3%B3gusa" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -47,10 +47,6 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 - 👯 Nyitott vagyok az együttműködésre open-source projektekben
 - 💬 Kérdezz bátran a **React**, **NextJS**, **Flutter** vagy **DevOps** témákban
 - ⚡ Fun fact: A programozás mellett érdekel a **3D modellezés** és a **digitális design** is
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
 
 > "A kód nem hazudik, a megjegyzések néha igen." — Ron Jeffries
 
@@ -244,10 +240,6 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 ---
 
 <h2 align="left">👨‍🎓 Tanulási Útvonalaim</h2>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding GIF" width="500" />
-</p>
 
 <p align="left">
   Így tanulok programozni:
