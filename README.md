@@ -1,195 +1,151 @@
-<h1 align="center">👨‍💻 Futó Zsombor</h1>
-<h3 align="center">Full-Stack & Mobile Fejlesztő | Innovatív Technológiai Megoldások</h3>
+<h1 align="center">Üdvözöllek a GitHub profilomon! 👋</h1>
+
+###
 
 <div align="center">
-  <a href="https://futozsombor.hu" target="_blank">
-    <img src="https://img.shields.io/badge/Weboldalam-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
-  </a>
+  <h2>Futó Zsombor</h2>
+  <h3><a href="https://futozsombor.hu" target="_blank">futozsombor.hu</a></h3>
+</div>
+
+###
+
+<div align="center">
   <a href="https://discord.com/users/945005059912118332" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/_futo_zsombor_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:zsombi@futozsombor.hu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.twitch.tv/krafterozzz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
 </div>
+
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=futozs&label=Profil%20Megtekintések&color=0e75b6&style=flat" alt="Profil megtekintések" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=futozs.futozs&" />
 </div>
 
----
+###
 
+<h2 align="left">👨‍💻 Rólam</h2>
+
+<p align="left">
+  Miskolcon élek, 15 éves vagyok, és a <b>Miskolci SZC Kandó Kálmán Informatikai Technikumban</b> tanulok. Nemrég kezdtem el ismerkedni a programozással, de máris nagyon beleszerettem ebbe a világba!
+  
+  - 🚀 Most kezdem elsajátítani az első programozási nyelveket és technológiákat
+  - 💡 Izgatottan fedezem fel az új kihívásokat a kódolás világában
+  - 🌱 Igyekszem minden nap tanulni valami újat
+  - 🔍 Álmom, hogy egyszer menő weboldalakat és alkalmazásokat fejlesszek
+  - 🎮 Amikor épp nem kódolok, szívesen játszom és streamelek a Twitch-en
+</p>
+
+###
+
+<h2 align="left">🛠️ Technológiák, amikkel már találkoztam</h2>
+
+<h3 align="left">Frontend</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+</div>
+
+<h3 align="left">Backend & Adatbázisok</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+</div>
+
+<h3 align="left">DevOps & Szerver (még csak ismerkedem velük)</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+</div>
+
+<h3 align="left">Mobil & Egyéb (amit szeretnék megtanulni)</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Statisztikáim (Összes Projektemmel Együtt)</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=futozs&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trófeák" />
+  <img src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=GitHub%20Statisztik%C3%A1im" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-seven-lemon-62.vercel.app/api/top-langs?username=futozs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2&custom_title=Leggyakrabban%20Haszn%C3%A1lt%20Nyelvek&count_private=true" height="170" alt="languages graph" />
 </div>
-
----
-
-## 🚀 Rólam
-
-<img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci SZC Kandó Kálmán Informatikai Technikumban** tanul. Célom, hogy innovatív digitális megoldásokat hozzak létre, amelyek valódi értéket teremtenek és megoldják a mindennapi problémákat.
-
-- 🔭 Jelenleg **modern webes alkalmazások** és **mobil megoldások** fejlesztésén dolgozom
-- 🌱 Folyamatosan tanulok és új technológiákat fedezek fel
-- 👯 Nyitott vagyok az együttműködésre open-source projektekben
-- 💬 Kérdezz bátran a **React**, **NextJS**, **Flutter** vagy **DevOps** témákban
-- ⚡ Fun fact: A programozás mellett érdekel a **3D modellezés** és a **digitális design** is
-
-> "A kód nem hazudik, a megjegyzések néha igen." — Ron Jeffries
-
----
-
-## 🛠️ Technológiai Stack
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><b>Backend & Adatbázisok</b></summary>
-<br>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/> 
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> 
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><b>DevOps & Szerver</b></summary>
-<br>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
-  </a>
-  <a href="https://github.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
-  </a>
-  <a href="https://httpd.apache.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="apache"/> 
-  </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> 
-  </a>
-  <a href="https://vercel.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/> 
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><b>Mobile & Egyéb</b></summary>
-<br>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> 
-  </a>
-  <a href="https://developer.android.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> 
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank"> 
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/> 
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="raspberry pi"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="after effects"/> 
-  </a>
-</p>
-</details>
-
----
-
-## 📈 GitHub Statisztikáim
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statisztik%C3%A1im" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=futozs&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=futozs&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="170" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/top-langs?username=futozs&layout=compact&langs_count=8&theme=radical&hide_border=true&custom_title=Leggyakrabban%20Haszn%C3%A1lt%20Nyelvek&count_private=true" />
-  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=futozs&theme=radical" />
-</div>
+###
 
----
+<h2 align="left">🎯 Amit szeretnék megtanulni</h2>
 
-## 🎵 Mit Hallgatok?
+<p align="left">
+  Bár még csak most kezdtem, hosszú távú céljaim között szerepel:
+  
+  - 🌐 Teljes weboldalak készítése előtétől háttérig
+  - 📱 Mobilalkalmazások fejlesztése
+  - 🤖 Alapszintű mesterséges intelligencia és gépi tanulás
+  - 🎮 Egyszerű játékok készítése
+  - 🛠️ 3D modellezés és digitális design alapjai
+</p>
+
+###
+
+<h2 align="left">🎵 Hallgatási Szokásaim Spotify-on</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31hxs5xre4lx6a3axjbejdoo3v3m">
@@ -197,64 +153,49 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
   </a>
 </div>
 
----
+###
 
-## 📌 Kiemelt Projektek
+<h2 align="left">💻 Első Projektjeim</h2>
 
-<div align="center">
-  <a href="https://github.com/futozs/project1">
-    <img align="center" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/pin/?username=futozs&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/futozs/project2">
-    <img align="center" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/pin/?username=futozs&repo=project2&theme=radical&hide_border=true" />
-  </a>
-</div>
+<p align="left">
+  Néhány egyszerű projekttel kezdtem, főleg:
+  
+  - 🌐 Iskolai weboldal feladatok
+  - 🧮 Egyszerű számológép JavaScript-ben
+  - 📝 Todo alkalmazás kezdetek
+  - 🎮 Egyszerű játékok (pl. kő-papír-olló)
+</p>
 
----
+###
 
-## 🔒 Privát Projektjeim
+<h2 align="left">👨‍🎓 Tanulási Útvonalaim</h2>
 
-Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikákban már szerepelnek a Vercel egyedi beállításaimnak köszönhetően. Ezek között megtalálhatóak:
+<p align="left">
+  Így tanulok programozni:
+  
+  - 📚 Iskolai tananyagok
+  - 🎬 YouTube tutorialok
+  - 📱 FreeCodeCamp mobilos kurzusai
+  - 💻 Codecademy és hasonló oldalak
+  - 👥 Discord programozó közösségek segítségével
+</p>
 
-- 🌐 Modern webapplikációk React és NextJS használatával
-- 📱 Mobil alkalmazások Flutter keretrendszerrel
-- 🖥️ Backend rendszerek Node.js alapokon
-- 🚀 DevOps megoldások és infrastruktúra optimalizáció
+###
 
----
+<h2 align="left">🤝 Segíts a fejlődésben!</h2>
 
-## 💼 Szakmai Tapasztalat
+<p align="left">
+  15 évesen még sokat kell tanulnom, ezért szívesen fogadok:
+  
+  - 💡 Tippeket és tanácsokat
+  - 🔗 Hasznos tanulási forrásokat
+  - 🧩 Egyszerű kihívásokat, amiket megoldhatok
+  - 👨‍👦‍👦 Csatlakozási lehetőséget kezdő barátságos projektekhez
+</p>
 
-- 🎓 **Kandó Kálmán Informatikai Technikum** - Informatikai tanulmányok
-- 💻 **Szabadúszó Fejlesztő** - Front-end és back-end fejlesztés
-- 🤝 **Open-Source Hozzájárulások** - Aktív közreműködő különböző projektekben
-
----
-
-## 🌱 Jelenlegi Tanulási Fókuszok
-
-- 🧠 Mesterséges intelligencia alapú megoldások
-- ☁️ Felhő alapú infrastruktúra és mikroszolgáltatások
-- 🔐 Kiberbiztonság és biztonsági rendszerek fejlesztése
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-### 🤝 Kapcsolat
-
-Nyitott vagyok az együttműködésre, új projektekre és szakmai beszélgetésekre. Ha kapcsolatba szeretnél lépni velem, keress bátran az alábbi platformokon:
-
-- 📧 **Email:** [zsombi@futozsombor.hu](mailto:zsombi@futozsombor.hu)
-- 🌐 **Weboldal:** [futozsombor.hu](https://futozsombor.hu)
-- 🎮 **Discord:** [Krafterozzz](https://discord.com/users/945005059912118332)
-
----
+###
 
 <div align="center">
-  <b>Köszönöm, hogy meglátogattad a profilomat! 👨‍💻</b>
+  <p>"A kód nem hazudik, a megjegyzések néha igen." — Ron Jeffries</p>
+  <p><i>Minden utazás egy első lépéssel kezdődik - és én már elindultam!</i></p>
 </div>
