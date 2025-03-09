@@ -179,11 +179,11 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 ## 📈 GitHub Statisztikáim
 
 <div align="center">
-  <img width="80%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statisztik%C3%A1im" />
+  <img width="49%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api?username=futozs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statisztik%C3%A1im" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=futozs&theme=dark&hide_border=true" />
 </div>
 <div align="center">
-  <img width="42%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/top-langs?username=futozs&layout=compact&langs_count=8&theme=dark&hide_border=true&custom_title=Leggyakrabban%20Haszn%C3%A1lt%20Nyelvek&count_private=true" />
+  <img width="70%" src="https://github-readme-stats-seven-lemon-62.vercel.app/api/top-langs?username=futozs&layout=compact&langs_count=8&theme=dark&hide_border=true&custom_title=Leggyakrabban%20Haszn%C3%A1lt%20Nyelvek&count_private=true" />
   <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=futozs&theme=dark" />
 </div>
 
