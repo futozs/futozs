@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Futó Zsombor</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Webfejleszt%C3%A9st+tanul%C3%B3+di%C3%A1k;K%C3%B3dol%C3%B3+tehetség;J%C3%B6v%C5%91+technol%C3%B3gusa" alt="Typing SVG" />
+ 
 </p>
 
 <div align="center">
@@ -239,49 +239,9 @@ Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikák
 
 ---
 
-<h2 align="left">👨‍🎓 Tanulási Útvonalaim</h2>
-
-<p align="left">
-  Így tanulok programozni:
-
-- 📚 Iskolai tananyagok <br>
-- 🎬 YouTube tutorialok <br>
-- 📱 FreeCodeCamp mobilos kurzusai <br>
-- 💻 Codecademy és hasonló oldalak <br>
-- 👥 Discord programozó közösségek segítségével <br>
-
-</p>
-
----
-
-<h2 align="left">🤝 Segíts a fejlődésben!</h2>
-<p align="left">
-  15 évesen még sokat kell tanulnom, ezért szívesen fogadok:
-
-- 💡 Tippeket és tanácsokat <br>
-- 🔗 Hasznos tanulási forrásokat <br>
-- 🧩 Egyszerű kihívásokat, amiket megoldhatok <br>
-- 👨‍👦‍👦 Csatlakozási lehetőséget kezdő barátságos projektekhez <br>
-
-</p>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
----
-
-### 📫 Kapcsolat
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DanielAdeyemi/DanielAdeyemi/main/contact-me.gif" alt="Contact GIF" width="400" />
-</p>
-
-Nyitott vagyok az együttműködésre, új projektekre és szakmai beszélgetésekre. Ha kapcsolatba szeretnél lépni velem, keress bátran az alábbi platformokon:
-
-- 📧 **Email:** [zsombi@futozsombor.hu](mailto:zsombi@futozsombor.hu)
-- 🌐 **Weboldal:** [futozsombor.hu](https://futozsombor.hu)
-- 🎮 **Discord:** [Krafterozzz](https://discord.com/users/945005059912118332)
 
 ---
 
