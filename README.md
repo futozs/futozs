@@ -1,10 +1,11 @@
 <h1 align="center">👨‍💻 Futó Zsombor</h1>
 <p align="center">
-<p align="center">
+<div align="center">
   <h3><a href="https://futozsombor.hu" target="_blank">
     <img src="https://img.shields.io/badge/website-futozsombor.hu-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Weboldal"/>
   </a></h3>
      <br>
+  </div>
 </div>
   <a href="https://discord.com/users/945005059912118332" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
