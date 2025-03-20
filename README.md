@@ -203,37 +203,6 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hxs5xre4lx6a3axjbejdoo3v3m&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
-
----
-
-## 🚧 Fejlesztési Útvonalaim
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,flutter,git,docker" />
-</p>
-
-## 🔒 Privát Projektjeim
-
-Számos privát projekten dolgozom, amelyek nem nyilvánosak, de a statisztikákban már szerepelnek a Vercel egyedi beállításaimnak köszönhetően. Ezek között megtalálhatóak:
-
-- 🌐 Modern webapplikációk React és NextJS használatával
-- 📱 Mobil alkalmazások Flutter keretrendszerrel
-- 🖥️ Backend rendszerek Node.js alapokon
-- 🚀 DevOps megoldások és infrastruktúra optimalizáció
-
----
-
-<h2 align="left">💻 Első Projektjeim</h2>
-<p align="left">
-  Néhány egyszerű projekttel kezdtem, főleg:
-
--  🌐 Iskolai weboldal feladatok <br>
--  🧮 Egyszerű számológép JavaScript-ben <br>
--  📝 Todo alkalmazás kezdetek <br>
--  🎮 Egyszerű játékok (pl. kő-papír-olló) <br>
-
-</p>
-
 ---
 
 <div align="center">
