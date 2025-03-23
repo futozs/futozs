@@ -42,7 +42,6 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
 - 🔭 Jelenleg **modern webes alkalmazások** és **mobil megoldások** fejlesztésén dolgozom
 - 🌱 Folyamatosan tanulok és új technológiákat fedezek fel
 - 👯 Nyitott vagyok az együttműködésre open-source projektekben
-- 💬 Kérdezz bátran a **React**, **NextJS**, **Flutter** vagy **DevOps** témákban
 - ⚡ Fun fact: A programozás mellett érdekel a **3D modellezés** és a **digitális design** is
 
 > "A kód nem hazudik, a megjegyzések néha igen." — Ron Jeffries
