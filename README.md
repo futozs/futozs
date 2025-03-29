@@ -202,13 +202,6 @@ Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci S
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hxs5xre4lx6a3axjbejdoo3v3m&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
