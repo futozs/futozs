@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Futó Zsombor</h1>
 <p align="center">
 <div align="center">
-  <h3><a href="https://futozsombor.hu" target="_blank">
+  <h3><a href="https://futozs.hu" target="_blank">
     <img src="https://img.shields.io/badge/website-futozsombor.hu-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Weboldal"/>
   </a></h3>
      <br>
@@ -10,10 +10,10 @@
   <a href="https://discord.com/users/945005059912118332" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.instagram.com/_futo_zsombor_/" target="_blank">
+  <a href="https://www.instagram.com/futozs_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:zsombi@futozsombor.hu" target="_blank">
+  <a href="mailto:mail@futozs.hu" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.twitch.tv/krafterozzz" target="_blank">
@@ -30,21 +30,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=futozs&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trófeák" />
 </div>
-
----
-
-## 🚀 Rólam
-
-<img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Egy szenvedélyes fejlesztő vagyok **Miskolcról**, aki jelenleg a **Miskolci SZC Kandó Kálmán Informatikai Technikumban** tanul. Célom, hogy innovatív digitális megoldásokat hozzak létre, amelyek valódi értéket teremtenek és megoldják a mindennapi problémákat.
-
-- 🔭 Jelenleg **modern webes alkalmazások** és **mobil megoldások** fejlesztésén dolgozom
-- 🌱 Folyamatosan tanulok és új technológiákat fedezek fel
-- 👯 Nyitott vagyok az együttműködésre open-source projektekben
-- ⚡ Fun fact: A programozás mellett érdekel a **3D modellezés** és a **digitális design** is
-
-> "A kód nem hazudik, a megjegyzések néha igen." — Ron Jeffries
 
 ---
 
