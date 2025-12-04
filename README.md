@@ -2,7 +2,7 @@
 <p align="center">
 <div align="center">
   <h3><a href="https://futozs.hu" target="_blank">
-    <img src="https://img.shields.io/badge/website-futozsombor.hu-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Weboldal"/>
+    <img src="https://img.shields.io/badge/website-futozs.hu-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Weboldal"/>
   </a></h3>
      <br>
 
@@ -160,12 +160,6 @@
 </details>
 
 ---
-
-## 📊 Fejlesztési Aktivitásom
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=futozs&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
 
 ## 📈 GitHub Statisztikáim
 
