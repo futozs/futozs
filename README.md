@@ -17,7 +17,7 @@ I'm a 16-year-old student and self-taught developer. I mainly work on frontend p
 🧠 About Me
 - Frontend-focused developer: Next.js, React, Vue, Nuxt, Tailwind, Electron
 - Full‑stack capable: Node.js, Express, Python, PHP, MySQL, MongoDB
-- Notable projects: Kranem.hu (frontend), MesterMC bányaközpont (Frontend), Napimenük.hu (full‑stack)
+- Notable projects: Kranem.hu (frontend), MesterMC bányaközpont (frontend), Napimenük.hu (full‑stack)
 - I love cats and enjoy building clean, responsive user interfaces
 
 🛠️ Contact
