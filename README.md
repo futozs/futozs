@@ -12,7 +12,7 @@
 
 👋 Hi there, I'm Futó Zsombor!
 
-I'm a 16-year-old student and self-taught developer. I mainly work on frontend projects but regularly take on full‑stack work when needed.
+I'm a 17-year-old student and self-taught developer. I mainly work on frontend projects but regularly take on full‑stack work when needed.
 
 🧠 About Me
 - Frontend-focused developer: Next.js, React, Vue, Nuxt, Tailwind, Electron
