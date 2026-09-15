@@ -72,8 +72,9 @@ I'm a 17-year-old student and self-taught developer. I mainly work on frontend p
 
 <div align="center">
   <a href="https://open.spotify.com/user/31hxs5xre4lx6a3axjbejdoo3v3m">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=31hxs5xre4lx6a3axjbejdoo3v3m&count=5&unique=true](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hxs5xre4lx6a3axjbejdoo3v3m&count=9&width=560&radius=23&unique=1&duration=1&album=1)" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hxs5xre4lx6a3axjbejdoo3v3m&count=9&width=560&radius=23&unique=1&duration=1&album=1" alt="Spotify recently played" />
   </a>
 </div>
+
 
 
