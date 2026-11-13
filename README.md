@@ -21,6 +21,17 @@ KRÉTA órarend iOS-re, Apple Watchra és Androidra. Widgetek, számlapkompliká
 [**moat**](https://github.com/futozs/moat)\
 Egy éles Ubuntu szerver felépítése rétegenként: SSH, WireGuard, tűzfal, DDoS-védelem, mentés. Minden beállítás mellett ott az oka.
 
+#### Csapatban
+
+[**Kranem**](https://kranem.hu)\
+Magyar tárhelyszolgáltató: webtárhely, játékszerver, VPS. A landing oldalt és az ügyfélpanel frontendjét én írtam; a panelben megy a rendelés, a számlázás és a hibajegyek kezelése.
+
+[**MineScript**](https://github.com/buninstall/dusza-2026)\
+Bun Install csapat, Dusza Árpád Programozói Emlékverseny 2026/27. Webes játék, amelyben egy bányarobotot saját programnyelven kell vezérelni; a nyelv motorja Rustban készült. Élőben: [minescript.hu](https://minescript.hu)
+
+[**Mars Rover**](https://github.com/buninstall/vadasz-denes-2026-mars-rover)\
+Bun Install csapat, Vadász Dénes Informatika Verseny 2026. Marsjáró-szimuláció 50×50-es pályán, akkumulátorral, nappal–éjszaka ciklussal és ásványgyűjtéssel. FastAPI backend, React frontend.
+
 <br>
 
 [futozs.hu](https://futozs.hu) · [mail@futozs.hu](mailto:mail@futozs.hu)
